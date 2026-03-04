@@ -1,16 +1,56 @@
-# React + Vite
+# 🔍 GitHub Developer Profile Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance React application to search for GitHub developers and explore their profiles, statistics, and top repositories. Featuring a premium design with Dark Mode, repository filtering, and persistent search history.
 
-Currently, two official plugins are available:
+![Preview Image](https://raw.githubusercontent.com/gaearon/gaearon/master/avatar.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## React Compiler
+- **🚀 Live Search**: Instant developer profile lookup using the GitHub REST API.
+- **🌙 Dark Mode**: Premium theme switching for a professional user experience.
+- **📊 Advanced Analytics**: Display followers, following, repo counts, and location.
+- **📂 Repo Filters**: Sort repositories by **Stars (Popularity)** or **Last Updated (Recent)**.
+- **🕒 Search History**: Persistent history of the last 5 searches stored in `localStorage`.
+- **📱 Fully Responsive**: Optimized for Mobile, Tablet, and Desktop.
+- **🛠️ Robust Logic**: Includes loading states, error handling, and a "Demo Mode" fallback for API rate limits.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Framework**: [React 19](https://react.dev/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **HTTP Client**: [Axios](https://axios-http.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18+)
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/monikanaramsetti/github-developer-profile-finder.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd github-developer-profile-finder
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📄 License
+
+Distributed under the MIT License.
+
+---
+Created with ❤️ for a professional portfolio.
