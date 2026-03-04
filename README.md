@@ -13,29 +13,8 @@ https://github-developer-profile-finder.vercel.app
 
 📂 **GitHub Repository:**
 https://github.com/monikanaramsetti/github-developer-profile-finder
-
 ---
-
-## 📸 Application Screenshots
-
-### 🔎 Search Interface
-
-![Search UI](Screenshot 2026-03-04 175456.png)
-
-### 👤 Developer Profile
-
-![Profile UI](Screenshot 2026-03-04 180421.png)
-
-### 📂 Repository Grid
-
-![Repository UI](Screenshot 2026-03-04 180432.png )
-
-### 🌙 Dark Mode
-
-![Dark Mode UI](Screenshot 2026-03-04 180444.png)
-
 ---
-
 ## ✨ Key Features
 
 * 🔎 **Live GitHub Search**
